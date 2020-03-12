@@ -1,0 +1,4 @@
+{%- for item in include.list -%}
+	{%- assign relative_path= include.relative_path | append: item -%}
+	<a href="{{ relative_path | relative_url }}">{{ item }}</a><br>
+{%- endfor -%}	

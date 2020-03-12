@@ -1,0 +1,23 @@
+title: royforge
+sitename: docs
+logo: /assets/logo/royforge-logo.svg
+description: > # this means to ignore newlines until "plugins:"
+  Documents (word, xlsx, ppts, pdfs) used in blogs, mini books
+  forged out of royforge.
+
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
+
+#list of documents
+rootdocs:
+  - royforge-letter-head.docx
+  - corporate/boardmeetings
+
+rootfolders:
+  corporate:
+    boardmeetings:
+      - 01-board-meeting-notice.docx
+      - 02-attendance-sheet-board-meeting.docx
+      - 03-MoM-Board-Meeting.docx
+      - 04-CTC-BR.docx
