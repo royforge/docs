@@ -10,4 +10,4 @@ title: resumes
 image: /assets/logo/royforge-logo-white-bg.png
 ---
 
-{% include list.html list=site.rootfolders.resumes relative_path='/cv/' %} 
+{% include list.html list=site.rootfolders.resumes relative_path='/resumes/' %} 
