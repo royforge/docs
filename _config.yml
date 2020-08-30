@@ -11,7 +11,7 @@ plugins:
 
 #list of documents
 rootdocs:
-  - royforge-letter-head.docx
+  - cv
   - corporate/boardmeetings
 
 rootfolders:
@@ -21,3 +21,5 @@ rootfolders:
       - 02-attendance-sheet-board-meeting.docx
       - 03-MoM-Board-Meeting.docx
       - 04-CTC-BR.docx
+  cv:
+    - xyz-binod.docx
