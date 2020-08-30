@@ -23,3 +23,9 @@ rootfolders:
       - 04-CTC-BR.docx
   cv:
     - xyz-binod.docx
+  templates:
+    - royforge-letter-head.docx
+    - royforge-sample.pptx
+    - royforge-template.potx
+  resumes:
+    - pradyumna-roy-resume.docx
