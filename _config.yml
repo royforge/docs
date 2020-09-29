@@ -22,10 +22,9 @@ rootfolders:
       - 03-MoM-Board-Meeting.docx
       - 04-CTC-BR.docx
   cv:
-    - xyz-binod.docx
+    - xyz-bindu.docx
   templates:
     - royforge-letter-head.docx
     - royforge-sample.pptx
-    - royforge-template.potx
   resumes:
     - pradyumna-roy-resume.docx
